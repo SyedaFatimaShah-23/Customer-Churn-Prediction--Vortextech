@@ -1,7 +1,6 @@
-# Customer-Churn-Prediction
+# Customer Churn Prediction
 
-# Customer Churn Prediction Using Machine Learning
-
+using Machine learning
 This project focuses on building a machine learning classification model to predict whether a telecom customer is likely to churn or continue using the service. I performed data preprocessing, feature encoding, model training, and evaluation using different classification algorithms.
 
 # Models Used
